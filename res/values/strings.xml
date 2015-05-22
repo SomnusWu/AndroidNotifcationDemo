@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidNotifcationDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_send_notifation">点我发送通知!</string>
+    <string name="btn_send_custem_notifation">自定义通知栏!</string>
+
+</resources>
