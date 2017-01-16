@@ -1,5 +1,4 @@
 # AndroidNotifcationDemo
-#  NotificationDemo   囧  文件夹名字都写错了
+#  NotificationDemo   e文件夹名字写错了
 
-
-# 糗死了！！！
+ 
